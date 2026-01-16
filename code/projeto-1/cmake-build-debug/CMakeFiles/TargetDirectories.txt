@@ -1,0 +1,3 @@
+C:/Users/mariajvieira/Downloads/AED2324_PRJ1_G113/code/projeto-1/cmake-build-debug/CMakeFiles/schedule.dir
+C:/Users/mariajvieira/Downloads/AED2324_PRJ1_G113/code/projeto-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mariajvieira/Downloads/AED2324_PRJ1_G113/code/projeto-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v5
+0	72	7209408780792501	build.ninja	5e8c1aa2c3f8dac3
+2445	2529	1699233945377940805	schedule	c89466cf8d61c482
+1	5335	7209387124970509	CMakeFiles/schedule.dir/Lecture.cpp.obj	7246b5fc5506466e
+11	5459	7209387127135958	CMakeFiles/schedule.dir/UC.cpp.obj	843398ee98ac6f0e
+9	2778	7209387334281641	CMakeFiles/schedule.dir/main.cpp.obj	ede04fd1c8cf51a9
+19	5543	7209387128179217	CMakeFiles/schedule.dir/Student.cpp.obj	9f30ce27e4e66b44
+5460	7854	7209387151808015	CMakeFiles/schedule.dir/Class.cpp.obj	44c28322354c593b
+34	7882	7209387152036530	CMakeFiles/schedule.dir/data_parsing.cpp.obj	4a4f00c1a2a0a78f
+22	4698	7209394794905842	CMakeFiles/schedule.dir/consult_functions.cpp.obj	ea30dee2f2e8ee0
+13	5240	7209394800313497	CMakeFiles/schedule.dir/requests_functions.cpp.obj	c924318e81432d74
+5241	7018	7209394817948919	schedule.exe	6757d0bafa6f4fd2
+7	1328	7209408871923814	CMakeFiles/schedule.dir/Lecture.cpp.obj	ac3350e5a44214b0
+15	1878	7209408877807153	CMakeFiles/schedule.dir/UC.cpp.obj	66f2eb7354abda3
+26	2453	7209408883439389	CMakeFiles/schedule.dir/Student.cpp.obj	c60fade921e470ad
+19	3404	7209408892966415	CMakeFiles/schedule.dir/main.cpp.obj	d7bf53eb79f1a30e
+1329	3521	7209408894480395	CMakeFiles/schedule.dir/Class.cpp.obj	f3c8c4449e78dc79
+42	4174	7209408901069152	CMakeFiles/schedule.dir/data_parsing.cpp.obj	39cc8a08215001d4
+54	4369	7209408903039758	CMakeFiles/schedule.dir/consult_functions.cpp.obj	ecbf600753f34285
+1879	5519	7209408914549101	CMakeFiles/schedule.dir/requests_functions.cpp.obj	54a63643802e1241
+5520	6528	7209408924592590	schedule.exe	6757d0bafa6f4fd2
