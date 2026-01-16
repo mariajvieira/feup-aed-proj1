@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['num_5fstudents_5fclass_5fper_5fuc_0',['num_students_class_per_uc',['../consult__functions_8cpp.html#a36c05f1d3eaa2cab8d80f8ce332c9be7',1,'num_students_class_per_uc(vector&lt; UC &gt; v_uc, vector&lt; Student &gt; v):&#160;consult_functions.cpp'],['../consult__functions_8h.html#a36c05f1d3eaa2cab8d80f8ce332c9be7',1,'num_students_class_per_uc(vector&lt; UC &gt; v_uc, vector&lt; Student &gt; v):&#160;consult_functions.cpp']]],
+  ['num_5fstudents_5fper_5fclass_1',['num_students_per_class',['../consult__functions_8cpp.html#a88eb6aeca22c9cacc0852774255c8657',1,'num_students_per_class(vector&lt; UC &gt; v_uc, vector&lt; Student &gt; v_stu):&#160;consult_functions.cpp'],['../consult__functions_8h.html#a88eb6aeca22c9cacc0852774255c8657',1,'num_students_per_class(vector&lt; UC &gt; v_uc, vector&lt; Student &gt; v_stu):&#160;consult_functions.cpp']]],
+  ['num_5fstudents_5fper_5fuc_5fclass_2',['num_students_per_uc_class',['../requests__functions_8cpp.html#acb2b87127ea6778b450f9f999d67db2d',1,'num_students_per_UC_class(string uc_code, string class_code, vector&lt; Student &gt; &amp;v):&#160;requests_functions.cpp'],['../requests__functions_8h.html#acb2b87127ea6778b450f9f999d67db2d',1,'num_students_per_UC_class(string uc_code, string class_code, vector&lt; Student &gt; &amp;v):&#160;requests_functions.cpp']]]
+];
